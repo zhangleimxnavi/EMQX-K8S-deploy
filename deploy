@@ -1,0 +1,6 @@
+#resource list
+ deployment
+ rbac
+ serviceaccount
+ service
+
