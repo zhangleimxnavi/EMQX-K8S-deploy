@@ -3,4 +3,6 @@
  rbac
  serviceaccount
  service
+ ingress
+ secret
 
